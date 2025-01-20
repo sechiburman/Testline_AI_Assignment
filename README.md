@@ -18,7 +18,7 @@ The Quiz Analysis Project aims to evaluate student performance data from quizzes
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/adityarudra46/Testline-Ai-Assignment
+   git clone [https://github.com/adityarudra46/Testline-Ai-Assignment](https://github.com/sechiburman/Testline_AI_Assignment.git)
    cd quiz-analysis
 
 2. Install required packaged:

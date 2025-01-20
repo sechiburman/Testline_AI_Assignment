@@ -11,9 +11,9 @@ The Quiz Analysis Project aims to evaluate student performance data from quizzes
 
 ## Technologies Used
 - Python 3.x
-- Pandas
-- Matplotlib
-- Requests (for API calls)
+- Pandas (data processing)
+- Matplotlib (data visualization)
+- Requests (API integration)
 
 ## Installation
 
@@ -44,7 +44,7 @@ Visualization:
 
 The results of the analysis are visualized using Matplotlib. Bar graphs and line charts are created to represent average scores, weak areas, and improvement trends, making it easier for educators and students to interpret the data visually.
 
--Recommendations
+## Recommendations
 Focus on Weak Areas:
 
 Targeted Study: Encourage focused learning on weaker topics (e.g., Chemistry) using structured resources or tutoring.
@@ -63,5 +63,5 @@ Stress Management:
 
 Mindfulness Techniques: Introduce stress-reduction practices to improve focus and performance under pressure.
 
--Conclusion
+## Conclusion
 The Quiz Analysis Project delivers a data-driven approach to understanding and enhancing student performance. By combining analysis, insights, and visualization, it equips both students and educators with tools to target weak areas and celebrate strengths. Through personalized strategies, the project aspires to foster better learning outcomes and a more engaging educational experience.
